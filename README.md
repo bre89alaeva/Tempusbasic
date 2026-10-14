@@ -216,4 +216,4 @@ TempusBasic is available as a complete free version for Windows, providing all f
 Ready to take control of your workforce management? Download TempusBasic now and experience the difference!
 
 ---
-**Last updated:** 2026-10-13 23:30:09 UTC
+**Last updated:** 2026-10-14 02:38:37 UTC
